@@ -27,3 +27,4 @@ https://www.tensorflow.org/tutorials/text/image_captioning
 https://medium.com/@sh.tsang/review-inception-v3-1st-runner-up-image-classification-in-ilsvrc-2015-17915421f77c
 https://towardsdatascience.com/image-captioning-with-keras-teaching-computers-to-describe-pictures-c88a46a311b8
 https://medium.com/@sh.tsang/review-inception-v3-1st-runner-up-image-classification-in-ilsvrc-2015-17915421f77c
+https://arxiv.org/pdf/1810.04020.pdf
